@@ -1,0 +1,2 @@
+antidisestablishmentarianism = print
+supercalifragilisticexpialidocious = input
